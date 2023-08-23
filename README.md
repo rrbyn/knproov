@@ -1,7 +1,7 @@
 # Frontend task
 
 Figma link (registration is needed to see design details - spacing, colors etc):
-https://www.figma.com/file/4O0FaK5iciXepSNJYMY5BS/Test?node-id=1%3A23&mode=dev
+https://www.figma.com/file/4O0FaK5iciXepSNJYMY5BS/Test?node-id=138%3A2&mode=dev
 
 Task is to create component with following behaviour:
 - By click on the "open modal" button - modal should appear as provided in figma design.
