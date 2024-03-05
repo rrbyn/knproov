@@ -16,3 +16,5 @@ Things to consider:
 - Both main and description text of modal can span multiple lines
 - Backdrop is part of the modal
 - All required assets already exist in the project
+
+You can push your code to any code hosting like GitHub, BitBucket or Gitlab.
