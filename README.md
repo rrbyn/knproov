@@ -1,7 +1,10 @@
 # Frontend task
 
 Figma link (registration is needed to see design details - spacing, colors etc):
-https://www.figma.com/file/4O0FaK5iciXepSNJYMY5BS/Test?node-id=138%3A2&mode=dev
+https://www.figma.com/file/yxjleoTJVTTbJCDEhNl8ko/KN-Test
+
+**NB**: If you don't have "dev" mode activated in figma, you can use default mode and press alt/option to get margins between elements.
+We expect you to implement all margins exactly as they are specified in Figma.
 
 Task is to create component with following behaviour:
 - By click on the "open modal" button - modal should appear as provided in figma design.
