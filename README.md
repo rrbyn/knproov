@@ -1,20 +1,23 @@
-# Frontend task
+# Frontend test assignment
 
 Figma link (registration is needed to see design details - spacing, colors etc):
 https://www.figma.com/file/yxjleoTJVTTbJCDEhNl8ko/KN-Test
 
-**NB**: If you don't have "dev" mode activated in figma, you can use default mode and press alt/option to get margins between elements.
-We expect you to implement all margins exactly as they are specified in Figma.
+## About project
 
-Task is to create component with following behaviour:
-- By click on the "open modal" button - modal should appear as provided in figma design.
-- "Delete" button should be disabled for first 2 seconds after modal is shown to the user (preventing accidental clicks)
-- Both "Delete" and "Cancel" buttons close modal
+Frontend test assignment using React.  
+Since Tailwind CSS was included in the base project, I decided to use it to the fullest. 
+Custom colours, fonts and sizes used can be found in`tailwind.config.js`
 
-Things to consider:
-- Usage of third-party design libs/components is prohibited - we're checking the ability to implement custom components from scratch
-- Both main and description text of modal can span multiple lines
-- Backdrop is part of the modal
-- All required assets already exist in the project
 
-You can push your code to any code hosting like GitHub, BitBucket or Gitlab.
+## How to run
+
+In order to start the project you will have to run the following commands in the project folder:
+
+### npm install
+
+This will install necessary dependencies described in the package.json file
+
+### npm run dev
+
+To start the project locally
